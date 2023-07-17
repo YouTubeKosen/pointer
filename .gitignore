@@ -1,0 +1,5 @@
+hello_world
+*.i
+*.o
+*.s
+*.map
