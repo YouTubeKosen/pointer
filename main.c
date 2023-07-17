@@ -9,7 +9,7 @@ uint32_t get_val(uint32_t * ptr)
 int main(void) {
     uint32_t hoge;
     uint32_t *ptr_hoge;
-    hoge = 32;
+    hoge = 256;
     printf("hoge = %d\n", hoge);
 
     ptr_hoge = &hoge;
