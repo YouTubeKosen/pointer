@@ -8,7 +8,7 @@ uint32_t get_val_8bit(uint8_t * ptr)
 
 int main(void) {
     uint32_t hoge;
-    uint8_t  *ptr_hoge_8bit;
+    uint8_t *ptr_hoge_8bit;
 
     hoge = 256;
     printf("hoge = %d\n", hoge);
